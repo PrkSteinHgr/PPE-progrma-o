@@ -1,0 +1,36 @@
+
+header{
+    text-align: center;
+    padding: 10px;
+    background-color: #DFDCE3;
+    border: #DFDCE3 solid 1px;
+    border-radius: 30px;
+
+}
+body{
+    background-color: #4ABDAC;
+
+}
+.Questões{
+    background-color: #F7B733;
+    margin-left: 280px;
+    margin-right:280px;
+    margin-top: 20px;
+    padding: 6px;
+    border: #F7B733 solid 2px;
+    border-radius: 16px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: #DFDCE3;
+    padding: 10px;
+    margin-top:20px;
+    border: #DFDCE3 solid 1px;
+    border-radius: 30px;
+}
+.botao{
+    text-align: center;
+    
+    
+}
